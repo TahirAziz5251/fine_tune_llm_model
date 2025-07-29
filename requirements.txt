@@ -1,0 +1,7 @@
+transformers==4.39.3
+trl==0.4.7
+peft
+bitsandbytes
+torch
+accelerate
+scipy

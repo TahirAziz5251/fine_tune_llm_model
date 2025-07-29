@@ -1,0 +1,20 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# VSCode / PyCharm settings
+.vscode/
+.idea/
+
+# Checkpoints / trained models / large files
+results/
+*.ckpt
+*.h5
+
+# System files
+.DS_Store
+Thumbs.db
